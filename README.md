@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dhyey-Mcmaster
+- 👋 Hi, I’m @Dhyey
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web technologies
 - 💞️ I’m looking to collaborate on projects that are fun can challanging
